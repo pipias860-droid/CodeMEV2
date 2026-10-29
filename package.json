@@ -1,0 +1,8 @@
+{
+  "name": "strikepoint-5v5",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A browser-based, multiplayer 5v5 tactical shooter prototype.",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0", "three": "^0.180.0" }
+}
